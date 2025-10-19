@@ -1,1 +1,2 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nội dung hiện tại của nhánh main
+Nội dung mới trong branch_1
