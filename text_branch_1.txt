@@ -1,1 +1,2 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Đây là thay đổi trong branch_1
+
